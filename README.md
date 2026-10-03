@@ -3,7 +3,7 @@
 B.Tech student at IIT Kharagpur, building full-stack products and AI/ML systems.
 
 ## Experience
-- **AI/ML Research Intern, GenVR**: built Stable Diffusion (SDXL/LoRA) pipelines, FastAPI model-serving endpoints and a node-based workflow designer.
+- **AI/ML Intern, GenVR**: built Stable Diffusion (SDXL/LoRA) pipelines, FastAPI model-serving endpoints and a node-based workflow designer.
 - **Research Intern, IIM Mumbai**: researched spatio-temporal deep learning for ride-hailing route recommendation.
 
 ## Projects
